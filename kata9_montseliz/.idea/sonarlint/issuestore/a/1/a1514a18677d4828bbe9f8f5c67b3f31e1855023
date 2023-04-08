@@ -1,0 +1,10 @@
+
+1
+java:S1700	"Rename field "matrix"(ÏãÓ8¯Ü‡šö0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ƒÄûÿÿÿÿ8°Ü‡šö0
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ˆüŠ¥ùÿÿÿÿ8¶¦‹šö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï³Íşıÿÿÿÿ8ÀÜ‡šö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ÀÜ‡šö0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ø¨ã¥şÿÿÿÿ8ÆÜ‡šö0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ø¨ã¥şÿÿÿÿ8ÈÜ‡šö0
